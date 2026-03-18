@@ -1,0 +1,1 @@
+enum Role { employee, student }
